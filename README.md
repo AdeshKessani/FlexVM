@@ -18,7 +18,7 @@ A C++ project featuring a custom virtual machine implementation (GritVM) alongsi
 Use your preferred build system (e.g., CMake or Visual Studio) to compile the source files.
 
 ### Running Tests
-Compile and run the `intDList_test.cpp` and other test files to verify correctness.
+Compile and run the `PP2Test.cpp` and other test files to verify correctness.
 
 ## Project Structure
 - `GritVM.hpp`, `GritVM.cpp`: Virtual machine implementation
